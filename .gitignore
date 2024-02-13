@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DemoCityApi.Tests/bin/Debug/netcoreapp3.1
+/DemoCityApi.Tests/obj
+/.vs/DemoCityApi
+/DemoCityApi/obj
+/DemoCityApi.Business/obj
+/DemoCityApi.Data/obj
+/DemoCityApi.RestServices/bin/Debug/netstandard2.0
+/DemoCityApi.RestServices/obj
+/DemoCityApi.Services/bin/Debug/netstandard2.0
+/DemoCityApi.Business/bin/Debug/netstandard2.0
+/DemoCityApi.Data/bin/Debug/netstandard2.0
+/DemoCityApi/bin/Debug/netcoreapp3.1
+/DemoCityApi.Business/bin/Debug/netstandard2.1
+/DemoCityApi.Data/bin/Debug/netstandard2.1
+/DemoCityApi.FunctionalTests/bin/Debug/netcoreapp3.1
+/DemoCityApi.FunctionalTests/obj
+/DemoCityApi.RestServices/bin/Debug/netstandard2.1

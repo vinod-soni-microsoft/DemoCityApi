@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DemoCityApi.Data\DemoCityApi.Data.csproj" />
+    <ProjectReference Include="..\DemoCityApi.RestServices\DemoCityApi.RestServices.csproj" />
+  </ItemGroup>
+</Project>
